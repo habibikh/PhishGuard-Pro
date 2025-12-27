@@ -1,0 +1,6 @@
+
+{
+  "name": "PhishGuard AI Analyst",
+  "description": "A professional cybersecurity tool that utilizes Gemini AI to detect phishing attempts, analyze email risks, and provide actionable security recommendations.",
+  "requestFramePermissions": []
+}
